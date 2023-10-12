@@ -1,6 +1,6 @@
 # Issues by The Red Guild
 
-A list of public issues we've reported, ranging from critical vulnerabilities to minor flaws and weaknesses. All of these come from our bug hunting efforts to protect relevant apps in the Ethereum ecosystem.
+A list of public issues we've reported, ranging from critical vulnerabilities to minor flaws and weaknesses. All of these come from our bug hunting efforts to protect relevant apps in the Ethereum ecosystem. Ordered by date of publication.
 
 |Project|Date|Description|Relevant links|
 |---|---|---|---|
